@@ -1,0 +1,6 @@
+`��vŜ���/Xc�r
+
+1. use API to realize
+1. chane to base64
+2. communicate via http (to exclude possible error)
+
