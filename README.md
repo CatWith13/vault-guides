@@ -1,3 +1,12 @@
+
+Updated vault-guides/secrets/mock/backend.go
+--generate plugin: go build -o vault/plugins/my-pligins cmd/mock/main.go
+
+Write secret with write.go
+Read secret with read.go
+
+tested with go 1.15.2
+
 ----
 -	Website: https://www.vaultproject.io
 -	GitHub repository: https://github.com/hashicorp/vault
